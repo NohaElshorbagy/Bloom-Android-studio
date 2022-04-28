@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="totalEachItem" type="id" />
+    <item name="titleTxt" type="id" />
+    <item name="imageView" type="id" />
+    <item name="constraintLayout4" type="id" />
+    <item name="minusCardBtn" type="id" />
+    <item name="constraintLayout5" type="id" />
+    <item name="plusCardBtn" type="id" />
+    <item name="numberItemTxt" type="id" />
+    <item name="txtclose" type="id" />
+</resources>

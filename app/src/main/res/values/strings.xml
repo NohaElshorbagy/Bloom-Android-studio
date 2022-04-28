@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string-array name="Flowers">
+        <item>Azalea</item>
+        <item>Buttercup</item>
+        <item>Chrysanthemum</item>
+        <item>Daffodil</item>
+        <item>Alstroemerias</item>
+        <item>Rose</item>
+    </string-array>
+    <string-array name="plants">
+        <item>Azalea</item>
+        <item>Buttercup</item>
+        <item>Chrysanthemum</item>
+        <item>Daffodil</item>
+        <item>Alstroemerias</item>
+        <item>Rose</item>
+    </string-array>
+    <string-array name="RecomFlowers">
+        <item>Azalea</item>
+        <item>Buttercup</item>
+        <item>Chrysanthemum</item>
+        <item>Daffodil</item>
+        <item>Alstroemerias</item>
+        <item>Rose</item>
+    </string-array>
+    <string-array name="Total">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="fee">
+        <item>0$</item>
+        <item>0$</item>
+        <item>0$</item>
+        <item>0$</item>
+        <item>0$</item>
+        <item>0$</item>
+    </string-array>
+    <string-array name="number">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+
+    </string-array>
+    <string name="power_connected">Power connected!</string>
+    <string name="power_disconnected">Power disconnected!</string>
+    <string name="custom_broadcast_toast">Custom Broadcast Received</string>
+    <string name="send_custom_broadcast">Send Custom Broadcast</string>
+    <string name="receiver_on">Receiver On</string>
+    <string name="receiver_off">Receiver Off</string>
+    <string name="unknown_action">unknown intent action</string>
+    <string name="buttercup" />
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_e_mail">Enter E-mail</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="user_name">User Name</string>
+    <string name="first_name_signup">First Name</string>
+    <string name="last_name_signup">Last Name</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="forget_password">Forgot Password</string>
+    <string name="this_field_is_required">this field is required</string>
+
+
+    <string name="title_activity_naviguationdrawer">naviguationdrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>

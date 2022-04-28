@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بلوم(إزهار)</string>
+    <string name="log_in">تسجيل دخول</string>
+    <string name="sign_up">انشاء حساب</string>
+    <string name="enter_e_mail">ادخل البريد الالكتروني</string>
+    <string name="enter_password">ادخل كلمة المرور</string>
+    <string name="forgot_password">هل نسيت كلمة المرور؟</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="first_name_signup">الاسم الأول</string>
+    <string name="last_name_signup">الاسم الأخير</string>
+    <string name="email_hint">ادخل البريد الالكتروني</string>
+    <string name="password_hint">ادخل كلمة المرور</string>
+    <string name="confirm_password_hint">تأكيد كلمة المرور</string>
+    <string name="forget_password">نسيت كلمة المرور؟</string>
+</resources>
